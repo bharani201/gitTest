@@ -1,0 +1,11 @@
+aws
+on jenkinsServer
+ first admin user credentials
+ username : jenkinsAdmin
+ password : jenkinsAdmin
+ 
+on qaServer and prodServer
+	tomcat user details
+	admin,admin
+	
+
